@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701074564751,
+      "tag": "0000_brainy_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701075166246,
+      "tag": "0001_exotic_pet_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701076177269,
+      "tag": "0002_third_exiles",
+      "breakpoints": true
+    }
+  ]
+}
