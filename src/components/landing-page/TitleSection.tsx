@@ -16,6 +16,7 @@ const TitleSection: React.FC<TitleSectionProps> = ({
       <section
         className="flex
         flex-col
+        mb-4
         gap-4
         justify-center
         items-start
